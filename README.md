@@ -1,4 +1,4 @@
-# MIAMI landing page
+# DIA landing page
 
 - HTML
 - CSS (SCSS)
